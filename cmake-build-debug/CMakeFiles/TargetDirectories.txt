@@ -1,0 +1,3 @@
+/Users/smnls/CLionProjects/Theater-Seat-Reservation-Simulator/cmake-build-debug/CMakeFiles/Theater-Seat-Reservation-Simulator.dir
+/Users/smnls/CLionProjects/Theater-Seat-Reservation-Simulator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/smnls/CLionProjects/Theater-Seat-Reservation-Simulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
